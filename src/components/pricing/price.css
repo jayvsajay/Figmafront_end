@@ -1,0 +1,72 @@
+.priceTop{
+    margin:40px;
+}
+.priceTopTitle {
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.textOrange {
+    color: rgb(221, 127, 45)
+}
+
+.priceTopDesc {
+    color: grey;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.btnfaded {
+    display: none;
+}
+
+.pricingSlot {
+    border: none;
+    padding-left: 5%;
+    padding-right: 3%;
+    background-color: white;
+}
+
+.priceSlotTitle {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.priceDesc {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.pricePerMonth {
+    display: flex;
+    align-items: center;
+    font-weight: 300;
+}
+
+.pricePerMonthTitle {
+    font-weight: 600;
+}
+
+.priceSlotBtn {
+    width:100%;
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pricingSlot:hover{
+    background-color: black;
+    color:white;
+    box-shadow: 5px 5px 0px 0px rgb(248, 206, 212);
+}
+.rules{
+    padding:20px;
+}
+.mdicons{
+    border-radius: 50%;
+    background-color: lightgoldenrodyellow;
+    padding:5px;
+    margin-right: 10px;
+}

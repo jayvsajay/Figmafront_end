@@ -1,0 +1,15 @@
+.login{
+}
+
+.logBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.required{
+    font-weight: 600;
+    font-size: 20px;
+    color: red;
+}

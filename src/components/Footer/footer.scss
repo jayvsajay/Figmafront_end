@@ -1,0 +1,31 @@
+.footer{
+    width:100%;
+    height:200px;
+    background-color: black;
+    color:white;
+
+    .socialIcons{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin:auto;
+            padding-top:80px;
+.icons{
+    margin-right:20px;
+}
+    }
+    .footertext{
+        text-align: center;
+        font-size: 12px;
+        padding:10px;
+
+        .barcket{
+            padding:10px;
+        }
+        .terms{
+            color:red;
+            padding:10px;
+        }
+    }
+
+}
